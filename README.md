@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**PandaGOM2/PandaGOM2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Nice Meet you👋
+## Wonkwang Univercity 
+안녕하세요! 🙋‍♂️ 저는 이찬(PandaGOM2)입니다. 개발자를 꿈꾸며 저는 계속해서 Development라는 생각으로, 꾸준하게 공부하려고 합니다!
+항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 
+많은 가르침 환영합니다!
+<br />
+<br />
+<br />
+## My values
+😎 개발은 재미와 목표가 있어야 합니다.<br />
+👌 계속해서 만들어보고 고쳐봐야 합니다.<br />
+🦻 실패는 성공의 어머니입니다.<br />
+<br />
+<br />
+<br />
